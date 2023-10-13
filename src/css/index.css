@@ -1,0 +1,129 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&family=Jost:ital,wght@0,100;0,200;0,300;1,100;1,200;1,300&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Oswald:wght@200;300;400;500;600;700&family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Titillium+Web:wght@200;300;600&family=Urbanist:ital,wght@0,200;0,500;0,600;0,700;0,800;1,200;1,300&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Urbanist', sans-serif;
+    /* border:1px solid red; */
+
+}
+
+.sec1 {
+    background: radial-gradient(50% 50% at 50% 50%, #068093 2.44%, #016C7C 100%);
+}
+
+.signupbtn {
+    background: rgba(9, 34, 50, 1);
+}
+
+.heading1 {
+    color: rgba(254, 236, 192, 1);
+}
+
+span {
+    color: rgba(254, 236, 192, 1);
+}
+
+.bgspan {
+    background: rgba(254, 236, 192, 1);
+    color: rgba(9, 34, 50, 1)
+}
+
+.inp {
+    background: rgba(34, 142, 158, 1);
+}
+
+.inp1 {
+    background: rgba(4, 117, 133, 1);
+}
+
+.heading2 {
+    border-right: 1px solid rgba(128, 128, 128, 0.499);
+}
+
+.icondiv {
+    background: rgba(254, 236, 192, 1);
+}
+
+.btn1 {
+    background: rgba(2, 112, 128, 1);
+}
+
+.bgimg {
+    background-image: url(../images/image\ 43\ \(1\).png);
+    background-size: cover;
+    background-position: center;
+}
+
+.headingtutor {
+    background: rgba(9, 34, 50, 1);
+}
+
+.roundimg {
+    background-image: url(../images/Ellipse\ 6.png);
+    background-size: 100% 100%;
+}
+
+.maincard {
+    background: linear-gradient linear-gradient(0deg, #FFFFFF, #FFFFFF);
+}
+
+.cardpt {
+    color: rgba(128, 149, 163, 1);
+}
+
+.cardbtn {
+    background: rgba(2, 112, 128, 1);
+    padding: 6px, 13px, 6px, 13;
+}
+
+.cardheading {
+    color: rgba(2, 112, 128, 1);
+}
+
+.cardpara {
+    color: rgba(81, 90, 96, 1);
+}
+
+.cardtbtn {
+    background: rgba(2, 112, 128, 1);
+}
+
+.cardfbtn {
+    color: rgba(2, 112, 128, 1);
+}
+
+.zonecard {
+    background: rgba(248, 249, 250, 1);
+}
+
+.maintrust {
+    background: rgba(255, 255, 255, 1);
+}
+
+.groupimg {
+    /* background-image: ; */
+    background-size: cover;
+    background-image: linear-gradient(to top, rgba(9, 34, 50, 0.951), rgba(9, 34, 50, 0.944)), url(../images/Group\ 1468.png);
+}
+.roundbtn{
+    background: rgba(255, 255, 255, 1);
+}
+.fotertext{
+    color: rgba(69, 80, 101, 1);
+}
+
+ul li{
+    color: rgba(69, 80, 101, 1);
+    padding:4px;
+}
+.bg-1{
+    background: rgba(9, 34, 50, 1);
+}
+.freebtn{
+    background: rgba(2, 112, 128, 1);
+}
