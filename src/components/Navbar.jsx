@@ -7,7 +7,7 @@ function Navbar() {
         <>
             <div className='w-full h-[91px] bg-white flex justify-between items-center px-8'>
                 <img src={img1} alt='' />
-                <ul className='hidden sm: lg:block text-white lg:flex lg:gap-10 lg:items-center font-medium text-[20px] leading-[24px]'>
+                <ul className='hidden sm:  text-white lg:flex lg:gap-10 lg:items-center font-medium text-[20px] leading-[24px]'>
                     <li>About us</li>
                     <a className='text-black' href="/Home">Tutors</a>
                     <li>Conferences</li>
@@ -16,11 +16,6 @@ function Navbar() {
 
 
                 </ul>
-
-
-
-
-
             </div>
         </>
     )
