@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Shimentor/static/css/main.b0fb3711.css",
-    "main.js": "/Shimentor/static/js/main.0bc8553f.js",
+    "main.js": "/Shimentor/static/js/main.88f08cb1.js",
     "static/media/Layer 1 2.png": "/Shimentor/static/media/Layer 1 2.436b2b36a4d38c31d4f2.png",
     "static/media/Group 1468.png": "/Shimentor/static/media/Group 1468.b6cc797c951bb22baa58.png",
     "static/media/image 43 (1).png": "/Shimentor/static/media/image 43 (1).d981065d1bf4a3f2a239.png",
     "static/media/White-in-Basic4.png": "/Shimentor/static/media/White-in-Basic4.7659f1287d1eb0eea3c7.png",
     "index.html": "/Shimentor/index.html",
     "main.b0fb3711.css.map": "/Shimentor/static/css/main.b0fb3711.css.map",
-    "main.0bc8553f.js.map": "/Shimentor/static/js/main.0bc8553f.js.map"
+    "main.88f08cb1.js.map": "/Shimentor/static/js/main.88f08cb1.js.map"
   },
   "entrypoints": [
     "static/css/main.b0fb3711.css",
-    "static/js/main.0bc8553f.js"
+    "static/js/main.88f08cb1.js"
   ]
 }
